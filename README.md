@@ -2,7 +2,7 @@
 [![author](https://img.shields.io/badge/author-SergioCampos-red.svg)](https://www.linkedin.com) [![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/SergioCampos/issues)
 
 <p align="center">
-  <img src="data4.jpeg" >
+  <img src="data5.png" >
 </p>
 
 # Sergio Campos
